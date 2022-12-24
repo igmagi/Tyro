@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &934323795466246287
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4614984451509336068}
+  m_Layer: 0
+  m_Name: Puente
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4614984451509336068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 934323795466246287}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 70.4281, y: 23.728676, z: 8.166073}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3770624103731725285}
+  - {fileID: 1199987933042861912}
+  - {fileID: 5315740495433774969}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1900213038959530567
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4614984451509336068}
+    m_Modifications:
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15.428101
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.271324
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.83392715
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.31733674
+      objectReference: {fileID: 0}
+    - target: {fileID: 7332139164694239021, guid: 7f6887c294f85df4faa1090acec7166f,
+        type: 3}
+      propertyPath: m_Name
+      value: "Puente_Piedra_Secci\xF3n_Texturav2"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7f6887c294f85df4faa1090acec7166f, type: 3}
+--- !u!4 &5315740495433774969 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6024589667297568062, guid: 7f6887c294f85df4faa1090acec7166f,
+    type: 3}
+  m_PrefabInstance: {fileID: 1900213038959530567}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6549599452605386771
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4614984451509336068}
+    m_Modifications:
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.4281006
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.271324
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.3239269
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.31733674
+      objectReference: {fileID: 0}
+    - target: {fileID: 8942096561474864472, guid: 87b3caf791502d44b95b31f32a6d4df2,
+        type: 3}
+      propertyPath: m_Name
+      value: Puente_Piedra_Roto_2_Texturav2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87b3caf791502d44b95b31f32a6d4df2, type: 3}
+--- !u!4 &1199987933042861912 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5351381001067394891, guid: 87b3caf791502d44b95b31f32a6d4df2,
+    type: 3}
+  m_PrefabInstance: {fileID: 6549599452605386771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9159082180047342543
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4614984451509336068}
+    m_Modifications:
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -25.4281
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.271324
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.83392715
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.31733674
+      objectReference: {fileID: 0}
+    - target: {fileID: 9012604224688060985, guid: 88e6ff65262e8b04f851645332382df5,
+        type: 3}
+      propertyPath: m_Name
+      value: Puente_Piedra_Roto_1_Texturav2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 88e6ff65262e8b04f851645332382df5, type: 3}
+--- !u!4 &3770624103731725285 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5424702378020538410, guid: 88e6ff65262e8b04f851645332382df5,
+    type: 3}
+  m_PrefabInstance: {fileID: 9159082180047342543}
+  m_PrefabAsset: {fileID: 0}
